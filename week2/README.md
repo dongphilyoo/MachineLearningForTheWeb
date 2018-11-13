@@ -10,4 +10,4 @@ The machine classifies the gender of participants using its eye(camera). Accordi
 ![](https://media.giphy.com/media/vxg5tNR05mqp5hMnLp/giphy.gif)
 
 Start game by pressing Spacebar on keyboard, and select Truth or Dare by pressing T or D key respectively.
-You can play a quick demo game [here](https://dongphilyoo.github.io/MachineLearningForTheWeb/week2/webcam.html).
+You can play a quick demo game [here](https://dongphilyoo.github.io/MachineLearningForTheWeb/week2/index.html).
